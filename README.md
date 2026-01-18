@@ -51,30 +51,7 @@ streamlit run app.py
 
 The app will open in your browser at `http://localhost:8501`
 
-## Application Features
-
-### Similar Words Finder
-- Enter any word from the vocabulary
-- Get top-K most similar words based on cosine similarity
-- Adjust the number of results with a slider
-
-### Word Analogies Solver
-- Solve analogies in the format: A is to B as C is to ?
-- Example: "man:woman :: king:?" -> "queen"
-- Get top predictions with similarity scores
-
-### Word Similarity Calculator
-- Calculate cosine similarity between any two words
-- Visual representation with progress bar
-- Interpretation of similarity levels
-
-### Model Selection
-- Switch between different models:
-  - Skipgram (Negative Sampling) - Best performance
-  - GloVe - Fast training
-  - Skipgram (Full Softmax) - Baseline
-
-## Application Screenshots
+## Screenshots
 
 ### Main Interface
 <!-- Add screenshot of the main application interface showing the sidebar and tabs -->
