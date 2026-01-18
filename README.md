@@ -179,7 +179,7 @@ Spearman rank correlation with human similarity judgments:
 
 ### Model Architectures
 
-**Skipgram (Full Softmax):**
+**Skipgram:**
 - Two embedding matrices: v (input) and u (output)
 - Loss: Negative log-likelihood with full softmax over vocabulary
 - Computationally expensive but accurate
