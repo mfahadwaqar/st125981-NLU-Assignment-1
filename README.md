@@ -3,9 +3,9 @@
 **Student:** Muhammad Fahad Waqar  
 **Student ID:** st125981
 
-## Project Overview
+## Assignment Overview
 
-This project implements and compares three word embedding models:
+This Assignment implements and compares three word embedding models:
 1. **Skipgram (Full Softmax)** - Basic Word2Vec
 2. **Skipgram with Negative Sampling** - Efficient Word2Vec
 3. **GloVe** - Global Vectors for Word Representation
